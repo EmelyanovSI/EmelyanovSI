@@ -10,7 +10,8 @@ I'm a software engineer who works on [personal projects](https://github.com/Emel
 
 Feel free to reach me at <xemelyanov@gmail.com>.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmelyanovSI&theme=github-dark-blue&exclude_days=Sun%2CSat) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmelyanovSI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmelyanovSI&theme=github-dark-blue&exclude_days=Sun%2CSat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmelyanovSI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_rank=true)
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -30,7 +31,7 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
