@@ -10,7 +10,7 @@ I'm a software engineer who works on [personal projects](https://github.com/Emel
 
 Feel free to reach me at <xemelyanov@gmail.com>.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmelyanovSI&theme=github-dark-blue&exclude_days=Sun%2CSat)
+<img alt="GitHub Streak" width="425" src="https://github-readme-streak-stats.herokuapp.com?user=EmelyanovSI&theme=github-dark-blue&exclude_days=Sun%2CSat" /> <img alt="GitHub Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=EmelyanovSI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
