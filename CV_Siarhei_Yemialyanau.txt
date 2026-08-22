@@ -1,13 +1,14 @@
 SIARHEI YEMIALYANAU
 Software Engineer
 
+Batumi, Georgia
 Phone:    +995 591 267 671
 Email:    xemelyanov@gmail.com
 LinkedIn: linkedin.com/in/siarhei-yemelianau
 GitHub:   github.com/EmelyanovSI
 
 --------------------------------------------------------------------------------
-SUMMARY
+PROFESSIONAL SUMMARY
 --------------------------------------------------------------------------------
 Software Engineer with 6+ years of experience building full-stack web and
 mobile products, from backend APIs and databases to production Flutter and
@@ -19,7 +20,7 @@ fleet-management, and legal-tech domains. Adaptable, detail-oriented, and used t
 cross-functional engineering teams and on independent projects alike.
 
 --------------------------------------------------------------------------------
-SKILLS
+CORE TECHNICAL SKILLS
 --------------------------------------------------------------------------------
 Languages & Frameworks: JavaScript, TypeScript, Python, Dart, React, Redux,
   Node.js, Express.js, Flutter, Django REST Framework, Flask, FastAPI
@@ -30,7 +31,7 @@ Tools & Practices:      ESLint/Prettier, Material UI, Axios, Agile/Scrum,
   code review, mobile app store deployment (Google Play)
 
 --------------------------------------------------------------------------------
-EXPERIENCE
+PROFESSIONAL EXPERIENCE
 --------------------------------------------------------------------------------
 Software Engineer
 PumpPay (Cyber-Mint)                                  Feb 2024 - Present
@@ -74,3 +75,12 @@ English
 Belarusian
 Russian
 Ukrainian
+
+--------------------------------------------------------------------------------
+ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+Nationality:        Belarusian
+Current residence:  Batumi, Georgia
+Residence status:   Temporary Residence Permit in Georgia
+Employment format:  Remote, Hybrid, or Office; open to relocation
+Supporting documents: Available upon request
