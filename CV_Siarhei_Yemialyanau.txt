@@ -1,11 +1,15 @@
 SIARHEI YEMIALYANAU
 Software Engineer
 
-Batumi, Georgia
-Phone:    +995 591 267 671
-Email:    xemelyanov@gmail.com
-LinkedIn: linkedin.com/in/siarhei-yemelianau
-GitHub:   github.com/EmelyanovSI
+Batumi, Georgia (GMT+4)
+Phone:          +995 591 267 671
+Email:          xemelyanov@gmail.com
+LinkedIn:       linkedin.com/in/siarhei-yemelianau
+GitHub:         github.com/EmelyanovSI
+Stack Overflow: stackoverflow.com/users/19843762/siarhei-yemialyanau
+Google Play:    play.google.com/store/apps/dev?id=6130095027780591104
+Telegram:       @EmelyanovSI
+WhatsApp:       @EmelyanovSI
 
 --------------------------------------------------------------------------------
 PROFESSIONAL SUMMARY
