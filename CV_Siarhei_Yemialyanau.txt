@@ -42,7 +42,7 @@ Tools & Practices: code generation, automated testing, debugging and
 PROFESSIONAL EXPERIENCE
 --------------------------------------------------------------------------------
 Software Engineer
-PumpPay (Cyber-Mint)                                  Feb 2024 - Present
+PumpPay (Pty) Ltd — South Africa | Remote                Nov 2023 - Present
 - Develop and maintain the PumpPay fleet-management platform: a Django REST
   Framework backend, a Flutter web dashboard (fleet/merchant portals), and
   Flutter mobile apps for drivers and forecourt operators, published on
@@ -50,13 +50,21 @@ PumpPay (Cyber-Mint)                                  Feb 2024 - Present
   the public marketing site is built separately in React.
 - Build and maintain Docker-based CI/CD pipelines for building, tagging, and
   releasing the Flutter applications.
+- Apply Clean Architecture, BLoC/Cubit state management and
+  dependency injection to support maintainable and scalable development.
+- Integrate REST APIs, WebSocket connections, authentication services and
+  secure local data storage.
+- Work with payment-related functionality, transaction flows, maps,
+  location services, document processing and notifications.
 - Contribute across related products within the same engineering group,
   including a Django/React fintech platform (TeamFu), a Flutter mobile
   wallet (Zarply).
+- Participate in technical planning, code reviews, troubleshooting,
+  application releases and ongoing product maintenance.
 - Work directly with product and design stakeholders to scope, implement,
   and ship features end to end.
 
-Freelance Software Developer                          2019 - 2024
+Freelance Software Developer | Remote                   2019 - 2024
 - Designed and built full-stack web applications (Node.js, Express, MongoDB,
   React) for independent clients and personal ventures, including a
   drugstore ordering platform (API + web front end).
