@@ -46,17 +46,13 @@ PumpPay (Cyber-Mint)                                  Feb 2024 - Present
 - Develop and maintain the PumpPay fleet-management platform: a Django REST
   Framework backend, a Flutter web dashboard (fleet/merchant portals), and
   Flutter mobile apps for drivers and forecourt operators, published on
-  Google Play; the public marketing site is built separately in React.
-- Work on payments-security infrastructure: PKI-based service-to-service
-  authentication, HSM key-ceremony and key-rotation tooling, and mock
-  emulators (Flask, FastAPI) for third-party payment and fuel-controller
-  APIs used in integration testing.
+  Google Play, App Store and App Gallery;
+  the public marketing site is built separately in React.
 - Build and maintain Docker-based CI/CD pipelines for building, tagging, and
   releasing the Flutter applications.
 - Contribute across related products within the same engineering group,
   including a Django/React fintech platform (TeamFu), a Flutter mobile
-  wallet (Zarply), and a React/Python legal-document platform (Junior
-  Counsel).
+  wallet (Zarply).
 - Work directly with product and design stakeholders to scope, implement,
   and ship features end to end.
 
