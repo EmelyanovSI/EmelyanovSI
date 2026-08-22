@@ -1,0 +1,76 @@
+SIARHEI YEMIALYANAU
+Software Engineer
+
+Phone:    +995 591 267 671
+Email:    xemelyanov@gmail.com
+LinkedIn: linkedin.com/in/siarhei-yemelianau
+GitHub:   github.com/EmelyanovSI
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+Software Engineer with 6+ years of experience building full-stack web and
+mobile products, from backend APIs and databases to production Flutter and
+React applications. Comfortable working across the stack: Python/Django on
+the backend, React/TypeScript on the web, and Flutter/Dart for iOS and
+Android. Experienced with Docker-based CI/CD pipelines, REST API design, and
+delivering features for products used in the fintech, fleet-management, and
+legal-tech domains. Adaptable, detail-oriented, and used to working in small,
+cross-functional engineering teams and on independent projects alike.
+
+--------------------------------------------------------------------------------
+SKILLS
+--------------------------------------------------------------------------------
+Languages & Frameworks: JavaScript, TypeScript, Python, Dart, React, Redux,
+  Node.js, Express.js, Flutter, Django REST Framework, Flask, FastAPI
+Security & Infrastructure: PKI-based service authentication, HSM/key-ceremony
+  tooling, MongoDB, PostgreSQL, Firebase, Docker, Git, REST APIs,
+  CI/CD (CircleCI, GitHub Actions)
+Tools & Practices:      ESLint/Prettier, Material UI, Axios, Agile/Scrum,
+  code review, mobile app store deployment (Google Play)
+
+--------------------------------------------------------------------------------
+EXPERIENCE
+--------------------------------------------------------------------------------
+Software Engineer
+PumpPay (Cyber-Mint)                                  Feb 2024 - Present
+- Develop and maintain the PumpPay fleet-management platform: a Django REST
+  Framework backend, a Flutter web dashboard (fleet/merchant portals), and
+  Flutter mobile apps for drivers and forecourt operators, published on
+  Google Play; the public marketing site is built separately in React.
+- Work on payments-security infrastructure: PKI-based service-to-service
+  authentication, HSM key-ceremony and key-rotation tooling, and mock
+  emulators (Flask, FastAPI) for third-party payment and fuel-controller
+  APIs used in integration testing.
+- Build and maintain Docker-based CI/CD pipelines for building, tagging, and
+  releasing the Flutter applications.
+- Contribute across related products within the same engineering group,
+  including a Django/React fintech platform (TeamFu), a Flutter mobile
+  wallet (Zarply), and a React/Python legal-document platform (Junior
+  Counsel).
+- Work directly with product and design stakeholders to scope, implement,
+  and ship features end to end.
+
+Freelance Software Developer                          2019 - 2024
+- Designed and built full-stack web applications (Node.js, Express, MongoDB,
+  React) for independent clients and personal ventures, including a
+  drugstore ordering platform (API + web front end).
+- Developed and published a Flutter mobile application to the Google Play
+  Store, handling the app end to end from UI to release.
+- Built assorted personal/open-source tools, including a TypeScript
+  break-even calculator (core library, CLI, and HTTP service), a document
+  scanning app using on-device OCR and ML Kit, and a stock-tracking
+  application.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+[Add degree, institution, and years]
+
+--------------------------------------------------------------------------------
+LANGUAGES
+--------------------------------------------------------------------------------
+English
+Belarusian
+Russian
+Ukrainian
