@@ -24,12 +24,18 @@ teams and on independent projects alike.
 --------------------------------------------------------------------------------
 CORE TECHNICAL SKILLS
 --------------------------------------------------------------------------------
-Languages & Frameworks: JavaScript, TypeScript, Python, Dart, React, Redux,
-  Node.js, Express.js, Flutter, Django REST Framework, Flask, FastAPI
-Security & Infrastructure: PKI-based service authentication, HSM/key-ceremony
-  tooling, MongoDB, PostgreSQL, Firebase, Docker, Git, REST APIs,
+Mobile Development: Flutter, Dart, Android, iOS
+Architecture & State Management: Clean Architecture, BLoC, Cubit,
+  dependency injection, repository pattern
+Networking & Integrations: REST APIs, WebSockets, Dio, JSON, authentication
+  and token management
+Data Storage: SQLite, SharedPreferences, Flutter Secure Storage
+Frontend & Web: Flutter, React, TypeScript, JavaScript, Vue.js, Redux
+Backend: Node.js, Express.js, Python, Django, Django REST Framework
+Security & Infrastructure: MongoDB, PostgreSQL, Firebase, Docker, Git, REST APIs,
   CI/CD (CircleCI, GitHub Actions)
-Tools & Practices: ESLint/Prettier, Material UI, Axios, Agile/Scrum,
+Tools & Practices: code generation, automated testing, debugging and
+  performance analysis, ESLint/Prettier, Material UI, Axios, Agile/Scrum,
   code review, mobile app store deployment (Google Play)
 
 --------------------------------------------------------------------------------
