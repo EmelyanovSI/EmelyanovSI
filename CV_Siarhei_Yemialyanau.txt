@@ -60,12 +60,16 @@ PumpPay (Pty) Ltd — South Africa | Remote                Nov 2023 - Present
   the public marketing site is built separately in React.
 - Build and maintain Docker-based CI/CD pipelines for building, tagging, and
   releasing the Flutter applications.
-- Apply Clean Architecture, BLoC/Cubit state management and
-  dependency injection to support maintainable and scalable development.
+- Apply Clean Architecture, BLoC/Cubit state management, Freezed, and
+  dependency injection (get_it/injectable) to support maintainable and
+  scalable development.
 - Integrate REST APIs, WebSocket connections, authentication services and
-  secure local data storage.
-- Work with payment-related functionality, transaction flows, maps,
-  location services, document processing and notifications.
+  secure local data storage (Hive, Flutter Secure Storage).
+- Work with payment-related functionality, transaction flows, maps and
+  location services (flutter_map, geocoding), document processing (ML Kit)
+  and notifications.
+- Write unit and integration tests (Mockito, Faker) to maintain code quality
+  across releases.
 - Contribute across related products within the same engineering group,
   including a Django/React fintech platform (TeamFu), a Flutter mobile
   wallet (Zarply).
@@ -73,6 +77,21 @@ PumpPay (Pty) Ltd — South Africa | Remote                Nov 2023 - Present
   application releases and ongoing product maintenance.
 - Work directly with product and design stakeholders to scope, implement,
   and ship features end to end.
+
+Software Engineer (previously Student Intern)
+IBA Group — Gomel, Belarus                       Oct 2019 - Jul 2023
+- Delivered frontend and full-stack features for external and internal
+  client projects within a large, established outsourcing company.
+- Built and maintained frontend services for a national digital-government
+  platform (React, Redux, TypeScript), giving citizens and businesses access
+  to public services such as bill payments, licensing, and appointments;
+  integrated REST APIs, wrote unit tests, and used the company's internal
+  component library.
+- Reviewed and triaged pull requests, wrote internal technical
+  documentation, and collaborated with cross-functional teams using
+  Jira and Confluence in an Agile workflow.
+- Progressed from Student Intern (Oct 2019 - Jun 2021) to Software Engineer
+  (Jul 2021 - Nov 2023) over the course of the engagement.
 
 Freelance Software Developer | Remote                   2019 - 2024
 - Designed and built full-stack web applications (Node.js, Express, MongoDB,
