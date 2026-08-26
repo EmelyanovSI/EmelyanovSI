@@ -14,16 +14,16 @@ WhatsApp:       @EmelyanovSI
 --------------------------------------------------------------------------------
 PROFESSIONAL SUMMARY
 --------------------------------------------------------------------------------
-Software Engineer with 6+ years of experience building full-stack web and
+Software Engineer with 7+ years of experience building full-stack web and
 mobile products, from backend APIs and databases to production Flutter and
-React applications. Comfortable working across the stack: Python/Django on
-the backend, React/TypeScript on the web, and Flutter/Dart for iOS and
-Android, and applying Clean Architecture principles to keep codebases
-maintainable and testable. Experienced with Docker-based CI/CD pipelines,
-REST API design, and delivering features for products used in the fintech,
-govtech, fleet-management, and legal-tech domains. Adaptable,
-detail-oriented, and used to working in small, cross-functional engineering
-teams and on independent projects alike.
+React applications. Comfortable working across the stack: Python/Django and
+Node.js/Express on the backend, React/TypeScript/Vue.js on the web, and
+Flutter/Dart for iOS and Android, and applying Clean Architecture principles
+to keep codebases maintainable and testable. Experienced with Docker-based
+CI/CD pipelines, REST/WebSocket API design, and delivering features for
+products used in the fintech, govtech, fleet-management, and legal-tech
+domains. Adaptable, detail-oriented, and used to working in small,
+cross-functional engineering teams and on independent projects alike.
 
 --------------------------------------------------------------------------------
 CORE TECHNICAL SKILLS
