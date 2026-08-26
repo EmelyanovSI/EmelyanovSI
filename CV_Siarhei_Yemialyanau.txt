@@ -31,7 +31,7 @@ CORE TECHNICAL SKILLS
 --------------------------------------------------------------------------------
 Mobile Development: Flutter/Dart, Android (Java/Kotlin), iOS
 Architecture & State Management: Clean Architecture, BLoC, Cubit, Freezed,
-  dependency injection (get_it, injectable), repository pattern, , Redux, Vuex,
+  dependency injection (get_it, injectable), repository pattern, Redux, Vuex,
   Pinia
 Networking & Integrations: REST APIs, WebSockets, Dio, Retrofit2, JSON,
   authentication and token management (JWT)
