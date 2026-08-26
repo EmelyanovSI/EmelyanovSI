@@ -28,19 +28,25 @@ cross-functional engineering teams and on independent projects alike.
 --------------------------------------------------------------------------------
 CORE TECHNICAL SKILLS
 --------------------------------------------------------------------------------
-Mobile Development: Flutter, Dart, Android, iOS
-Architecture & State Management: Clean Architecture, BLoC, Cubit,
-  dependency injection, repository pattern
-Networking & Integrations: REST APIs, WebSockets, Dio, JSON, authentication
-  and token management
-Data Storage: SQLite, SharedPreferences, Flutter Secure Storage
-Frontend & Web: Flutter, React, TypeScript, JavaScript, Vue.js, Redux
+Mobile Development: Flutter/Dart, Android (Java/Kotlin), iOS
+Architecture & State Management: Clean Architecture, BLoC, Cubit, Freezed,
+  dependency injection (get_it, injectable), repository pattern, , Redux, Vuex,
+  Pinia
+Networking & Integrations: REST APIs, WebSockets, Dio, Retrofit2, JSON,
+  authentication and token management (JWT)
+Data Storage: SQLite, Hive, SharedPreferences, Flutter Secure Storage,
+  MongoDB, PostgreSQL, MS SQL Server, MySQL, Firebase (Realtime Database, Auth)
+Frontend & Web: Flutter, React, TypeScript, JavaScript, Vue.js (Vue3, Vite),
+  Angular, Redux, GoRouter, TailwindCSS, Material UI, Bootstrap, Axios
 Backend: Node.js, Express.js, Python, Django, Django REST Framework
-Security & Infrastructure: MongoDB, PostgreSQL, Firebase, Docker, Git, REST APIs,
-  CI/CD (CircleCI, GitHub Actions)
-Tools & Practices: code generation, automated testing, debugging and
-  performance analysis, ESLint/Prettier, Material UI, Axios, Agile/Scrum,
-  code review, mobile app store deployment (Google Play)
+Infrastructure & DevOps: Docker, Docker Compose, Nginx, Git, GitHub, GitLab,
+  Gitea, CI/CD (GitHub Actions, CircleCI, Jenkins), multistage builds,
+  environment management (dev/qa/prod)
+Testing & Quality: Unit & integration testing, Mockito, Faker, Jest, Vitest,
+  React Testing Library, SonarQube, ESLint/Prettier, code review
+Other Tools: ML Kit (on-device OCR), flutter_map, geocoding, camera,
+  in_app_update, Postman, Jira, Confluence, Figma, Agile/Scrum, mobile app
+  store deployment (Google Play, App Store, App Gallery)
 
 --------------------------------------------------------------------------------
 PROFESSIONAL EXPERIENCE
