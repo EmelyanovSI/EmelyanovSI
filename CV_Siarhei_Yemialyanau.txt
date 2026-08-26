@@ -93,6 +93,26 @@ IBA Group — Gomel, Belarus                       Oct 2019 - Jul 2023
 - Progressed from Student Intern (Oct 2019 - Jun 2021) to Software Engineer
   (Jul 2021 - Nov 2023) over the course of the engagement.
 
+Personal Projects, University & Independent Learning     2017 - 2024
+- Designed and built full-stack web applications (Node.js, Express, MongoDB,
+  React) for personal ventures.
+- Developed and published a Flutter mobile application to the Google Play
+  Store, handling the app end to end from UI to release.
+- Built assorted personal/open-source tools, including a TypeScript
+  break-even calculator (core library, CLI, and HTTP service), a document
+  scanning app using on-device OCR and ML Kit, and a stock-tracking
+  application.
+- Designed and built a full-stack university scheduling system end to end:
+  a React/TypeScript web client, a React Native mobile app (iOS/Android),
+  a Node.js/Express backend, and Firebase Realtime Database/MongoDB for
+  live and archived data.
+- Built an Android application (Kotlin) that helped users identify
+  medication equivalents across countries by name or active substance,
+  integrating a REST API via Retrofit2.
+- Built a desktop data-management application (Electron, React, Material UI)
+  backed by MS SQL Server, including reporting, Excel export, and search
+  functionality.
+
 --------------------------------------------------------------------------------
 EDUCATION
 --------------------------------------------------------------------------------
