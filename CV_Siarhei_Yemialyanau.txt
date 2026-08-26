@@ -93,17 +93,6 @@ IBA Group — Gomel, Belarus                       Oct 2019 - Jul 2023
 - Progressed from Student Intern (Oct 2019 - Jun 2021) to Software Engineer
   (Jul 2021 - Nov 2023) over the course of the engagement.
 
-Freelance Software Developer | Remote                   2019 - 2024
-- Designed and built full-stack web applications (Node.js, Express, MongoDB,
-  React) for independent clients and personal ventures, including a
-  drugstore ordering platform (API + web front end).
-- Developed and published a Flutter mobile application to the Google Play
-  Store, handling the app end to end from UI to release.
-- Built assorted personal/open-source tools, including a TypeScript
-  break-even calculator (core library, CLI, and HTTP service), a document
-  scanning app using on-device OCR and ML Kit, and a stock-tracking
-  application.
-
 --------------------------------------------------------------------------------
 EDUCATION
 --------------------------------------------------------------------------------
